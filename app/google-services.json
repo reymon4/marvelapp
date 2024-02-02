@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936878935769",
+    "project_id": "marvel-app-d1b52",
+    "storage_bucket": "marvel-app-d1b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936878935769:android:2020d36adc5f312d6278c8",
+        "android_client_info": {
+          "package_name": "com.reymon.marvelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8AdByCsI57r_DuukJjtwEtEyL11t_hf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
